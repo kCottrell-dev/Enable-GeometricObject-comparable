@@ -1,0 +1,1 @@
+# Enable-GeometricObject-comparable
